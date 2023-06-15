@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/tests.dir/main.cc.o CMakeFiles/tests.dir/sumTest/sum_test.cc.o  -o ../bin/tests  ../lib/libgtest_main.a ../lib/libgmock_main.a ../sum/libsum.a ../lib/libgmock.a ../lib/libgtest.a -lpthread 
